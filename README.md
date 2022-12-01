@@ -1,2 +1,4 @@
 # Script-to-add-images
-this has the script to add images to a README.md file
+<p align="center">
+ <img src="your image, gif, or video HERE" />
+</p>
